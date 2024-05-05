@@ -25,3 +25,4 @@ jobs:
           port: ${{ secrets.PORT }}
           key: ${{ secrets.SSHKEY }}
           script: "cd /var/www/travellist && ./.scripts/deploy.sh"
+          timeout: 3600s
