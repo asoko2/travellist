@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Travel List </title>
+  <title>Travel Lists</title>
 </head>
 <body>
   <h1>My Travel Bucket List</h1>
